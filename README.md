@@ -1,16 +1,16 @@
-### Hi there 👋
+### About me
 
-<!--
-**KirstenSchuhmann/KirstenSchuhmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 😊 
+I'm Kirsten, trained media designer and currently learning Web Development with [neue fische](https://www.neuefische.de). 
 
-Here are some ideas to get you started:
+## Things I like 
+- 🏋️ Powerlifting
+- 🐴 🌱 If I don't do Powerlifting, I'm maybe taking pictures of **horses** and **nature**
+- 🎧 music
+- 🤓 coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programmes I'm used to: 
+- Photoshop 
+- Lightroom
+- Illustrator 
+- InDesign
