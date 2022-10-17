@@ -5,7 +5,7 @@ I'm Kirsten, trained media designer and currently learning Web Development with 
 
 ## Things I like 
 - 🏋️ Powerlifting
-- 🐴 🌱 If I don't do Powerlifting, I'm maybe taking pictures of **horses** and **nature**
+- 🐴 🌱 📸 If I don't do Powerlifting, I'm maybe taking pictures of **horses** and **nature**
 - 🎧 music
 - 🤓 coding
 
