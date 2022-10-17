@@ -1,4 +1,4 @@
-### About me
+## About me
 
 Hi there 😊 
 I'm Kirsten, trained media designer and currently learning Web Development with [neue fische](https://www.neuefische.de). 
