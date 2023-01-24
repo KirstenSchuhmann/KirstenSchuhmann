@@ -1,7 +1,12 @@
 ## About me
 
 Hi there 😊 
-I'm Kirsten, trained media designer and currently learning Web Development with [neue fische](https://www.neuefische.de). 
+I'm Kirsten, trained media designer and just finished my web development bootcamp with [neue fische](https://www.neuefische.de).
+
+## Latest Project
+Have a look at my capstone project --> [klick here] (https://github.com/KirstenSchuhmann/CapstoneProject. 
+It's an app for my hobby powerlifting, to save my own gym plans. Go ahead and try it out yourself 💪
+
 
 ## Things I like 
 - 🏋️ Powerlifting
@@ -14,3 +19,4 @@ I'm Kirsten, trained media designer and currently learning Web Development with 
 - Lightroom
 - Illustrator 
 - InDesign
+- Visual Studio Code
