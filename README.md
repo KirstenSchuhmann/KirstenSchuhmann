@@ -1,22 +1,10 @@
 ## About me
 
-Hi there 😊 
-I'm Kirsten, trained media designer and just finished my web development bootcamp with [neue fische](https://www.neuefische.de).
+Hi there, 
+I'm Kirsten, the creative head of this GitHub Profile 👋
 
-## Latest Project
-Have a look at my capstone project --> [klick here](https://github.com/KirstenSchuhmann/CapstoneProject).  
-It's an app for my hobby powerlifting, to save my own gym plans. Go ahead and try it out yourself 💪
+Lately I've been focused to create awesome designs in Figma and exploring the World of UX/UI Design, but before that I took the opportunity to understand the crucial parts of Web Development. 
 
+## Projects
+In my repositories, you'll find some projects from my web development bootcamp with [neue fische](https://www.neuefische.de). Please keep in mind, that most of them have been projects to practice my web-dev skills, so they are not fully developed and might have some bugs 🐞  
 
-## Things I like 
-- 🏋️ Powerlifting
-- 🐴 🌱 📸 If I don't do Powerlifting, I'm maybe taking pictures of **horses** and **nature**
-- 🎧 music
-- 🤓 coding
-
-## Programmes I'm used to: 
-- Photoshop 
-- Lightroom
-- Illustrator 
-- InDesign
-- Visual Studio Code
